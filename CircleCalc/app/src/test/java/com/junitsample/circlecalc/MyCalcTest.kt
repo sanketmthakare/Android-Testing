@@ -1,7 +1,6 @@
 package com.junitsample.circlecalc
 
 
-import com.google.common.truth.Truth8.assertThat
 import com.google.common.truth.Truth.assertThat
 import org.junit.Before
 

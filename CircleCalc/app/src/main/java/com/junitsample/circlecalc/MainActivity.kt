@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.ViewModelProvider
+import com.junitsample.circlecalc.R
 import com.junitsample.circlecalc.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
